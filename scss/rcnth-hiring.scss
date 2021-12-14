@@ -133,7 +133,7 @@ header {
     align-items: center;
     justify-content: center;
     height: 20vw;
-    background: url(/images/rcnth-hiring/groupbg.png) #dbf3ff no-repeat center;
+    background: url(../images/rcnth-hiring/groupbg.png) #dbf3ff no-repeat center;
     background-size: contain;
     &::before {
       background: #02273a;
@@ -160,7 +160,7 @@ header {
   .life {
     display: flex;
     align-items: center;
-    background-image: url(/images/rcnth-hiring/lifeatrcn.jpg);
+    background-image: url(../images/rcnth-hiring/lifeatrcn.jpg);
     background-size: cover;
     background-attachment: fixed;
     height: 40vw;
@@ -247,7 +247,7 @@ header {
   .corporate {
     display: flex;
     align-items: center;
-    background-image: url(/images/rcnth-hiring/group-main.jpg);
+    background-image: url(../images/rcnth-hiring/group-main.jpg);
     background-size: cover;
     background-attachment: fixed;
     height: 40vw;
@@ -647,7 +647,7 @@ header {
     }
     .banner-2 {
       height: 200px;
-      background: url(/images/rcnth-hiring/groupbg.png) #dbf3ff no-repeat center;
+      background: url(../images/rcnth-hiring/groupbg.png) #dbf3ff no-repeat center;
       background-size: cover;
       padding: 1rem 20px;
 
@@ -661,7 +661,7 @@ header {
     .life {
       display: flex;
       align-items: center;
-      background-image: url(/images/rcnth-hiring/lifeatrcn.jpg);
+      background-image: url(../images/rcnth-hiring/lifeatrcn.jpg);
       background-size: cover;
       background-position: top center;
       background-attachment: unset;
@@ -727,7 +727,7 @@ header {
     .corporate {
       display: flex;
       align-items: center;
-      background-image: url(/images/rcnth-hiring/group-main.jpg);
+      background-image: url(../images/rcnth-hiring/group-main.jpg);
       background-size: cover;
       background-position: top center;
       background-attachment: unset;
