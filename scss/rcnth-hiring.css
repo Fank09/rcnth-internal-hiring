@@ -75,7 +75,7 @@ header .banner .left .caption .button {
 header .banner .right {
   width: 50%;
   height: 100%;
-  background-image: url(/images/rcnth-hiring/rcnhiring.jpg);
+  background-image: url(../images/rcnth-hiring/rcnhiring.jpg);
   background-size: cover;
 }
 header .banner .typing-demo {
@@ -121,7 +121,7 @@ header .banner-2 {
   align-items: center;
   justify-content: center;
   height: 20vw;
-  background: url(/images/rcnth-hiring/groupbg.png) #dbf3ff no-repeat center;
+  background: url(../images/rcnth-hiring/groupbg.png) #dbf3ff no-repeat center;
   background-size: contain;
 }
 header .banner-2::before {
@@ -146,7 +146,7 @@ header .banner-2 h1 {
 #rcnthHiring .life {
   display: flex;
   align-items: center;
-  background-image: url(/images/rcnth-hiring/lifeatrcn.jpg);
+  background-image: url(../images/rcnth-hiring/lifeatrcn.jpg);
   background-size: cover;
   background-attachment: fixed;
   height: 40vw;
@@ -219,7 +219,7 @@ header .banner-2 h1 {
 #rcnthHiring .corporate {
   display: flex;
   align-items: center;
-  background-image: url(/images/rcnth-hiring/group-main.jpg);
+  background-image: url(../images/rcnth-hiring/corporate.jpg);
   background-size: cover;
   background-attachment: fixed;
   height: 40vw;
@@ -584,7 +584,7 @@ header .banner-2 h1 {
   }
   header .banner-2 {
     height: 200px;
-    background: url(/images/rcnth-hiring/groupbg.png) #dbf3ff no-repeat center;
+    background: url(../images/rcnth-hiring/groupbg.png) #dbf3ff no-repeat center;
     background-size: cover;
     padding: 1rem 20px;
   }
@@ -595,7 +595,7 @@ header .banner-2 h1 {
   #rcnthHiring .life {
     display: flex;
     align-items: center;
-    background-image: url(/images/rcnth-hiring/lifeatrcn.jpg);
+    background-image: url(../images/rcnth-hiring/lifeatrcn.jpg);
     background-size: cover;
     background-position: top center;
     background-attachment: unset;
@@ -655,9 +655,9 @@ header .banner-2 h1 {
   #rcnthHiring .corporate {
     display: flex;
     align-items: center;
-    background-image: url(/images/rcnth-hiring/group-main.jpg);
+    background-image: url(../images/rcnth-hiring/corporate.jpg);
     background-size: cover;
-    background-position: top center;
+    background-position: left center;
     background-attachment: unset;
     height: auto;
     padding: 4rem 0;
